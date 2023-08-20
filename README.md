@@ -1,16 +1,26 @@
 # Crop-Height-Metrics
 This tool calculates statistical metrics of crop height using DSM and DEM layers in each plot. Make sure that your plot boundary layer has a field with the name of "New_ID" as plot number. Enjoy it
 Project Title
+
 [Calculate crop height statistical metrics based on DSM and DEM layers ]
+
 Description
+
 [if you are working with LIDAR or digital aerial photometry to extract the height of the plant, this tool would be helpful. For using this tool, you need to have a feature layer of the boundary of your location or the boundary of the plots that you are working on it. This layer should have a field with the name of New_ID that shows the unique ID for your plots (plot number). In addition, you need to have an image format for DSM and DEM layers as input]
+
+ ![image](https://github.com/AliBgisrs/Crop-Height-Metrics/assets/109620013/0bb313e2-a376-4bf5-9272-e085e0065293)
+
  
+
 Table of Contents
+
 •	Installation
 •	Usage
 •	Contributing
 •	License
+
 Installation
+
 [Download the tool and csv folder, put csv folder in your C drive.]
 [Go to the insert tab of your ArcGIS PRO project]
  
