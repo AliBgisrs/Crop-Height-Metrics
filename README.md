@@ -21,7 +21,7 @@ Table of Contents
 
 Installation
 
-[Download the tool and csv folder, put csv folder in your C drive.]
+[Download the tool and csv folder, unzip and put csv folder in your C drive.]
 [Go to the insert tab of your ArcGIS PRO project]
 
 ![image](https://github.com/AliBgisrs/Crop-Height-Metrics/assets/109620013/04e84566-ff7e-45b3-9adc-d99b5f44d86f)
