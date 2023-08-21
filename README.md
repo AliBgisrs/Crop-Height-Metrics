@@ -6,7 +6,7 @@ Project Title
 
 Description
 
-[if you are working with LIDAR or digital aerial photometry to extract the height of the plant, this tool would be helpful. For using this tool, you need to have a feature layer of the boundary of your location or the boundary of the plots that you are working on it. This layer should have a field with the name of New_ID that shows the unique ID for your plots (plot number). In addition, you need to have an image format for DSM and DEM layers as input]
+[if you are working with LIDAR or digital aerial photogrametry to extract the height of the plant, this tool would be helpful. For using this tool, you need to have a feature layer of the boundary of your location or the boundary of the plots that you are working on it. This layer should have a field with the name of New_ID that shows the unique ID for your plots (plot number). In addition, you need to have an image format for DSM and DEM layers as input]
 
  ![image](https://github.com/AliBgisrs/Crop-Height-Metrics/assets/109620013/0bb313e2-a376-4bf5-9272-e085e0065293)
 
