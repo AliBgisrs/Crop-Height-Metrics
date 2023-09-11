@@ -38,7 +38,7 @@ Installation
 
 [Double click and open the script]
 
-![image](https://github.com/AliBgisrs/Crop-Height-Metrics/assets/109620013/ebd28ca2-b16a-4b94-be34-6c70e2fe0ab0)
+![image](https://github.com/AliBgisrs/Crop-Height-Metrics/assets/109620013/ccd3e652-bc64-42ae-a97a-2ef31f2cf35c)
 
 
  
