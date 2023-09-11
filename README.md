@@ -69,7 +69,7 @@ The tool calculates some important statistical metrics including: minimum, mean,
 ![image](https://github.com/AliBgisrs/Crop-Height-Metrics/assets/109620013/4b443427-3ca7-4f9b-8ede-e07f67379511)
 
 
- ![image](https://github.com/AliBgisrs/Crop-Height-Metrics/assets/109620013/f0790a8c-3df3-4534-abf8-e4f3897bd6cd)
+![image](https://github.com/AliBgisrs/Crop-Height-Metrics/assets/109620013/a2f9f582-89c4-4724-9cbe-ffbae94128b8)
 
  
 
