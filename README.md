@@ -59,7 +59,7 @@ if you are working with LIDAR or digital aerial photometry to extract the height
  
 After running the tool an excel file will be created in your csv folder at your C drive. In addition, if you open 6.gdb at your ARCMAP you can see the resulted rasters and feature layers.
 
-![image](https://github.com/AliBgisrs/Crop-Height-Metrics/assets/109620013/69e57f1b-0f81-419c-8bea-f6ad4384fa6d)
+![image](https://github.com/AliBgisrs/Crop-Height-Metrics/assets/109620013/3d12cd09-36d8-42c5-9195-59931d45b02c)
 
 
  
