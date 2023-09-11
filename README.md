@@ -54,7 +54,7 @@ Installation
 Usage
 if you are working with LIDAR or digital aerial photometry to extract the height of the plant, this tool would be helpful. For using this tool, you need to have a feature layer of the boundary of your location or the boundary of the plots that you are working on it. This layer should have a field with the name of New_ID that shows the unique ID for your plots (plot number). In addition, you need to have an image format for DSM and DEM layers as input. DSM and DEM layers should be in image format.
 
-![image](https://github.com/AliBgisrs/Crop-Height-Metrics/assets/109620013/44bdd94b-a1f1-459e-9528-115b09be6b87)
+![image](https://github.com/AliBgisrs/Crop-Height-Metrics/assets/109620013/2d571eee-16f5-4321-8be5-b73de4e49988)
 
  
 After running the tool an excel file will be created in your csv folder at your C drive. In addition, if you open 6.gdb at your ARCMAP you can see the resulted rasters and feature layers.
