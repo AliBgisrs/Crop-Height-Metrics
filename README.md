@@ -48,9 +48,7 @@ Installation
 
  
 
-Before running the tool you should paste csv folder in your C drive directory to save the results on there. 
 
- ![image](https://github.com/AliBgisrs/Crop-Height-Metrics/assets/109620013/43507546-da9b-47f3-a7cc-9f1d1dfbe30c)
  
 
 Usage
